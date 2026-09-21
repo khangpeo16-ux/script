@@ -36,7 +36,7 @@ local SCAN_PAGES = {
     "https://cosplaytele.com/category/cosplay-nudee/",
 
     -- THÊM LINK:
-    -- "https://cosplaytele.com/....",
+    -- "https://cosplaytele.com/category/cosplay-nudee/....",
 }
 
 local MAX_PAGES = 20
