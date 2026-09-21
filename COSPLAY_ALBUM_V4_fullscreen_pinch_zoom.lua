@@ -39,13 +39,13 @@ local SCAN_PAGES = {
     -- "https://cosplaytele.com/category/cosplay-nudee/....",
 }
 
-local MAX_PAGES = 20
+local MAX_PAGES = 500
 
 -- 0 = unlimited
 local MAX_ALBUMS = 500
 
 local SCAN_WORKERS = 3
-local REQUEST_DELAY = 0.10
+local REQUEST_DELAY = 0.08
 
 local IMAGE_RETRIES = 3
 local PRELOAD_IMAGES = true
